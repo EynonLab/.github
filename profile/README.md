@@ -35,6 +35,7 @@ the biological processes associated with healthy ageing.
 | Biological Ageing | Organ- and tissue-specific molecular ageing |
 | Epigenetics | DNA methylation and epigenetic regulation |
 | Transcriptomics | Gene expression and regulatory networks |
+| Proteomics | Protein profiling and ageing clocks |
 | Multi-omics | Integration of molecular datasets |
 | Bioinformatics | Statistical modelling and computational biology |
 
