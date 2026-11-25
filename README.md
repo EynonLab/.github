@@ -9,7 +9,7 @@
 **Monash University | Melbourne, Australia**
 
 [![Lab Website](https://img.shields.io/badge/Lab-Website-343875?style=for-the-badge)](https://armi.org.au/our-groups/eynon-group/)
-[![Monash University](https://img.shields.io/badge/Monash-University-006DAE?style=for-the-badge)](https://www.monash.edu/)
+[![Australian Regenerative Medicine Institute (ARMI)](https://img.shields.io/badge/Monash-University-006DAE?style=for-the-badge)]([https://www.monash.edu/](https://armi.org.au/))
 [![Publications](https://img.shields.io/badge/Research-Publications-7952B3?style=for-the-badge)](https://research.monash.edu/en/persons/nir-eynon/)
 
 </div>
